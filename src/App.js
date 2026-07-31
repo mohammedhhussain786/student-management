@@ -4,9 +4,7 @@ function App() {
   return (
     <div>
       <Navbar />
-      <h2 style={{textAlign:"center"}}>
-        Student Management App
-      </h2>
+      <h2>Welcome to Student Management App</h2>
     </div>
   );
 }
