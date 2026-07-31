@@ -1,10 +1,11 @@
 import Navbar from "./components/Navbar";
+import StudentForm from "./components/StudentForm";
 
 function App() {
   return (
     <div>
       <Navbar />
-      <h2>Welcome to Student Management App</h2>
+      <StudentForm />
     </div>
   );
 }
